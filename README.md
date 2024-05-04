@@ -5,7 +5,7 @@ requirements: numpy, matplotlib
 
 
 
-
+file Cosyxfuncyx its a func y x + cos y x in one console
 
 
 
