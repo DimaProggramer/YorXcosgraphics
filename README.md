@@ -2,7 +2,7 @@ There are some shortcomings in the code if you write to a variable choice True t
 
 requirements: numpy, matplotlib
 
-
+file Cosyxfuncyx its a func y x + cos y x in one console
 
 
 
